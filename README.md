@@ -29,7 +29,6 @@ scissors = '''
 ---.__(___)
 '''
 
-#Write your code below this line 👇
 import random
 
 RPS = [rock, paper, scissors]
@@ -56,3 +55,8 @@ else:
     print("You win!")
   elif computer_choice == user_choice:
     print("It's a draw!")
+
+Photo of code:
+
+<img src="https://i.imgur.com/U9mp62M.png" height="100%" width="100%" alt="Password generator"/>
+<img src="https://i.imgur.com/1AmmyFr.png" height="100%" width="100%" alt="Password generator"/>
