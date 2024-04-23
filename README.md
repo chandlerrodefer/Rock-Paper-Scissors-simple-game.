@@ -3,5 +3,5 @@ Simple rock, paper, scissors game using ascii art. Takes user input and returns 
 
 Project Code:
 
-<img src="https://i.imgur.com/U9mp62M.png" height="100%" width="100%" alt="Password generator"/>
-<img src="https://i.imgur.com/1AmmyFr.png" height="100%" width="100%" alt="Password generator"/>
+<img src="https://i.imgur.com/U9mp62M.png" height="100%" width="100%" alt="Rock, paper, scissors game"/>
+<img src="https://i.imgur.com/1AmmyFr.png" height="100%" width="100%" alt="Rock, paper, scissors game"/>
